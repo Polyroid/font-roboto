@@ -2,7 +2,7 @@ Package.describe({
     name: 'polyroid:font-roboto',
     version: '1.0.1',
     summary: 'An HTML import for Roboto',
-    git: 'git@github.com:Polyroid/font-roboto.git',
+    git: 'https://github.com/Polyroid/font-roboto.git',
     documentation: null
 });
 
